@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: What We Do
 permalink: /what-we-do/
 ---

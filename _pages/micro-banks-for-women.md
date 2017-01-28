@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Micro Banks for Women
 permalink: /what-we-do/micro-banks-for-women/
 ---
