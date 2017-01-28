@@ -32,20 +32,20 @@ Elderly women visit nearby upper primary schools and perform story telling and s
 
 A petition, signed by the elders and the communities, seeking Old Age Pension for the abandoned elders and medical insurance coverage, was submitted to the Union Finance Ministry as an advocacy initiative for the benefit of elderly population in the Country.
 
-  ![](/images/Scan_Pic0006.jpg)
+![](/images/Scan_Pic0006.jpg)
 
-  ![](/images/Scan_Pic0008.jpg)
+![](/images/Scan_Pic0008.jpg)
 
-  ![](/images/Scan_Pic0010.jpg)
+![](/images/Scan_Pic0010.jpg)
 
-  ![](/images/Scan_Pic0015.jpg)
+![](/images/Scan_Pic0015.jpg)
 
-  ![](/images/Scan_Pic0016.jpg)
+![](/images/Scan_Pic0016.jpg)
 
-  ![](/images/Scan_Pic0017.jpg)
+![](/images/Scan_Pic0017.jpg)
 
-  ![](/images/Scan_Pic0018.jpg)
+![](/images/Scan_Pic0018.jpg)
 
-  ![](/images/Scan_Pic0019.jpg)
+![](/images/Scan_Pic0019.jpg)
 
-  ![](/images/Selling-vegetables-by-an-elderly.jpg)
+![](/images/Selling-vegetables-by-an-elderly.jpg)
