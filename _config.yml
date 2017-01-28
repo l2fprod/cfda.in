@@ -26,7 +26,7 @@
 # # Build settings
 # markdown: kramdown
 # #theme: minima
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 # gems:
 #   - jekyll-feed
 # exclude:
@@ -94,7 +94,7 @@ yandex_site_verification :
 twitter:
   username               : centrealter
 facebook:
-  username               :
+  username               : cfda.in
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
