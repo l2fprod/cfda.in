@@ -26,7 +26,7 @@ excerpt: "Facilitating the development process benefiting the marginalized by pr
       <script src="https://greatnonprofits.org/js/api/badge_toprated.js" type="text/javascript"> </script>
       <div class="gnp_trb" id="gnp_trb">
         <a href="http://greatnonprofits.org/reviews/centre-for-development-alternatives">
-          <img src="http://cdn.greatnonprofits.org/img/top-rated-badge-2013.style1.png?id=996374266" title="2013 Top-rated nonprofits and charities" alt="2013 Top-rated nonprofits and charities" />
+          <img src="//cdn.greatnonprofits.org/img/top-rated-badge-2013.style1.png?id=996374266" title="2013 Top-rated nonprofits and charities" alt="2013 Top-rated nonprofits and charities" />
         </a>
         <br/>
         <span class="gnp_lb">
