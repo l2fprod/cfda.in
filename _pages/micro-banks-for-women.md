@@ -44,7 +44,7 @@ Transparent accounting and loan processing systems are in place.
 
 The entire initiative is self-managed. The Operational team includes two paid staff from the community, and forty volunteers (AKSHAYA Representatives).
 
-<img src="http://chart.apis.google.com/chart?chs=330x245&cht=p&chco=76A4FB|AA0033|FFFF88|C3D9FF|80C65A|E05AA4|224499|FF9900&chd=s:LFECBFJX&chdl=Consumption|Education|Health|Home+Appliances|Housing|Livelihoods|Family+Functions|Repayment+of+High+Interest+Loans&chp=4.5&chma=0,0,0,10|1" />
+<img src="//chart.apis.google.com/chart?chs=330x245&cht=p&chco=76A4FB|AA0033|FFFF88|C3D9FF|80C65A|E05AA4|224499|FF9900&chd=s:LFECBFJX&chdl=Consumption|Education|Health|Home+Appliances|Housing|Livelihoods|Family+Functions|Repayment+of+High+Interest+Loans&chp=4.5&chma=0,0,0,10|1" />
 
 ## Other Initiatives
 
