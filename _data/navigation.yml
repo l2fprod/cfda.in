@@ -4,6 +4,8 @@ main:
     url: /who-we-are/
   - title: "What We Do"
     url: /what-we-do/
+  - title: "Contact"
+    url: /contact/
   - title: "Training & Consulting"
     url: /training-consulting/
   - title: "Micro Banks for Women"
