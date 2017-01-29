@@ -45,6 +45,7 @@
 # Site Settings
 locale                   : "en"
 title                    : "Center For Development Alternatives"
+logo                     : "/images/cfda-logo-50px.png"
 title_separator          : "-"
 name                     : ""
 description              : "Demonstrating Alternatives for the Development of the Under-Served &laquo; Center for Development Alternatives."

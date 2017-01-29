@@ -2,7 +2,8 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-title: "Welcome"
+title: "Demonstrating Alternatives for the Development of the Under-Served"
+headline: "Our mission"
 layout: splash
 header:
   overlay_image: /images/IMG_7588.jpg
@@ -16,6 +17,11 @@ excerpt: "Facilitating the development process benefiting the marginalized by pr
     <td style="border: none;" align="center">
       <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fcfda.in%2F&tabs=timeline&width=400&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=149907718419093" width="400" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
     </td>
+    <td style="border: none; vertical-align: middle;" align="center">
+      <a class="twitter-timeline" data-height="500" data-dnt="true" data-theme="light" href="https://twitter.com/centrealter">Tweets by centrealter</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </td>
+  </tr>
+  <tr>
     <td style="border: none; vertical-align: middle;" align="center">
       <script type="text/javascript"> gnp_request = {"slug" : "centre-for-development-alternatives", "color-set" : 1 }; </script>
       <br />
@@ -31,7 +37,8 @@ excerpt: "Facilitating the development process benefiting the marginalized by pr
            href="http://greatnonprofits.org/org/centre-for-development-alternatives">Volunteer. Donate.</a>&nbsp;<a class="gnp_lb" title="Centre For Development Alternatives Reviews on GreatNonprofits" href="http://greatnonprofits.org/reviews/centre-for-development-alternatives" >Review.</a>
         </span>
       </div>
-      <br/>
+    </td>
+    <td style="border: none; vertical-align: middle;" align="center">
       <script type="text/javascript">gnp_url = 'centre-for-development-alternatives'; gnp_num = '4';</script>
       <script src="https://greatnonprofits.org/js/badge_stars.js" type="text/javascript"></script>
     </td>
